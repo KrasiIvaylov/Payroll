@@ -1,1 +1,1 @@
-Sample Payroll REST api
+Sample Payroll REST api with Spring boot
