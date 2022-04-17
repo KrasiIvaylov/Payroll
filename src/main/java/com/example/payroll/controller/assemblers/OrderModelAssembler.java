@@ -2,7 +2,7 @@ package com.example.payroll.controller.assemblers;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
-import com.example.payroll.Order;
+import com.example.payroll.entity.Order;
 import com.example.payroll.controller.OrderController;
 import com.example.payroll.entity.enums.Status;
 import org.springframework.hateoas.EntityModel;

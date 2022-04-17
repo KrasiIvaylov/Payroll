@@ -1,6 +1,6 @@
 package com.example.payroll.controller;
 
-import com.example.payroll.Order;
+import com.example.payroll.entity.Order;
 import com.example.payroll.controller.assemblers.OrderModelAssembler;
 import com.example.payroll.controller.exceptions.OrderNotFoundException;
 import com.example.payroll.entity.enums.Status;
@@ -14,7 +14,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.swing.text.html.parser.Entity;
 import java.util.List;
 import java.util.stream.Collectors;
 

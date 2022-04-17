@@ -1,4 +1,4 @@
-package com.example.payroll;
+package com.example.payroll.entity;
 
 
 import com.example.payroll.entity.enums.Status;

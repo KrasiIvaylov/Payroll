@@ -1,6 +1,6 @@
 package com.example.payroll.databaseLoader;
 
-import com.example.payroll.Order;
+import com.example.payroll.entity.Order;
 import com.example.payroll.entity.Employee;
 import com.example.payroll.entity.enums.Status;
 import com.example.payroll.entity.repository.EmployeeRepository;
